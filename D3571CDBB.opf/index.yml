@@ -4,8 +4,8 @@ revision: '00001'
 annotations:
   c66ebc0dc7904869b9c2876546d907af:
     parts: {}
+    work_id: D2694
     span:
-    - vol: 37
+    - base: 54a3
       start: 0
       end: 5219
-    work_id: D2694
